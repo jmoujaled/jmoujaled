@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge)](https://userostra.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jalelmoujaled)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmoujaled@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalelmoujaled@gmail.com)
 
 Ten-plus years running teams and operations across manufacturing, construction, logistics, and media in Ghana — now applying the same discipline to software. I design, build, and ship my own products end to end: product design, payments and licensing, infrastructure, launch.
 
@@ -24,4 +24,4 @@ Founder and operator: a water production company running since 2020, a regional 
 
 ## Contact
 
-jmoujaled@gmail.com · [LinkedIn](https://www.linkedin.com/in/jalelmoujaled) · [X](https://x.com/JalelMoujaled)
+jalelmoujaled@gmail.com · [LinkedIn](https://www.linkedin.com/in/jalelmoujaled) · [X](https://x.com/JalelMoujaled)
