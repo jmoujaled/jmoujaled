@@ -10,7 +10,7 @@ Ten-plus years running teams and operations across manufacturing, construction, 
 
 ## Shipped
 
-- **[Rostra](https://userostra.com)** — text-to-speech desktop app for macOS & Windows. Private, offline, pay once. Installers at [rostra-releases](https://github.com/jmoujaled/rostra-releases); source private.
+- **[Rostra](https://userostra.com)** — text-to-speech desktop app for macOS & Windows. Private and offline; free version available, full version is a one-time purchase. Source private.
 - **[MyMinutesApp](https://myminutesapp.splendidedgesystems.com)** — meeting transcription and minutes SaaS, live subscription billing.
 - **[TheBoardKit](https://theboardkit.splendidedgesystems.com)** — board governance SaaS, in pilot.
 - **Content production pipeline** — 14-stage system taking a client brief through script, voiceover, video generation, and assembly to a finished branded film. In production with paying client work. Source private.
